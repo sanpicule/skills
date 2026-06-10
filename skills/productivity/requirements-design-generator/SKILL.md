@@ -280,4 +280,4 @@ SubAgent から集まったサマリを統合し、以下を抽出・整理す�
 
 ## 関連 SubAgent
 
-- [business-document-analyzer](../../agents/business-document-analyzer.md) — 業務資料を読み、構造化サマリを返す専用エージェント。本スキルのステップ 2 で並列起動する。
+- [business-document-analyzer](../../../agents/business-document-analyzer.md) — 業務資料を読み、構造化サマリを返す専用エージェント。本スキルのステップ 2 で並列起動する。
